@@ -1,18 +1,5 @@
 <h1 align="center">Airtable to Telegram Notifier </h1>
 
-
-
-# Table of Contents
-
-1. [Project Overview](#project-overview-)
-2. [Features](#features-)
-    - [Future Enhancements (To-Do)](#future-enhancements-to-do-)
-3. [Requirements](#requirements-)
-4. [Usage Examples](#usage-examples-)
-    - [Setup and Installation Instructions](#setup-and-installation-instructions-)
-6. [Troubleshooting Tips](#troubleshooting-tips-)
-7. [Contribution Guidelines](#contribution-guidelines-)
-
 ## Project Overview 
 
 Airtable to Telegram Notifier (ATT Notifier) is a seamless integration tool designed to push updates from Airtable to a Telegram channel. Whenever there's a change of status in your Airtable entry, ATT Notifier makes sure your Telegram audience is the first to know! 
